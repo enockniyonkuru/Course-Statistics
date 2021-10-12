@@ -1,0 +1,73 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2578
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fnil\fcharset0 Menlo-Regular;}
+{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
+{\*\expandedcolortbl;;\csgray\c0;}
+\paperw11900\paperh16840\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\partightenfactor0
+
+\f0\fs22 \cf2 \CocoaLigature0 (base) 38f9d37ee279:project2 enockniyonkuru$ javac CourseStatistics.java\
+(base) 38f9d37ee279:project2 enockniyonkuru$ javac CourseStatisticsTester.java\
+(base) 38f9d37ee279:project2 enockniyonkuru$ java CourseStatisticsTester courses.txt\
+*** Displaying courses and their full description...\
+Displaying 19 courses. \
+CPSC333: Computer Networks has  been taken by 58 students and has a 93.0% recommendation score. \
+CPSC399: Independent Study has  been taken by 119 students and has a 94.0% recommendation score. \
+CPSC320: Analysis of Algorithms has  been taken by 88 students and has a 77.0% recommendation score. \
+CPSC375: High-Performance Computing has  been taken by 45 students and has a 91.0% recommendation score. \
+CPSC310: Software Design has  been taken by 152 students and has a 88.0% recommendation score. \
+CPSC340: Principles of Software Engineering has  been taken by 56 students and has a 85.0% recommendation score. \
+CPSC110: Visual Computing has  been taken by 126 students and has a 80.0% recommendation score. \
+CPSC275: Introduction to Computer Systems has  been taken by 80 students and has a 87.0% recommendation score. \
+CPSC352: Artificial Intelligence has  been taken by 76 students and has a 68.0% recommendation score. \
+CPSC385: Computer Security has  been taken by 116 students and has a 85.0% recommendation score. \
+CPSC219: Theory of Computation has  been taken by 116 students and has a 78.0% recommendation score. \
+CPSC304: Computer Graphics has  been taken by 98 students and has a 82.0% recommendation score. \
+CPSC315: Systems Software has  been taken by 84 students and has a 88.0% recommendation score. \
+CPSC316: Foundations of Programming Languages has  been taken by 56 students and has a 82.0% recommendation score. \
+CPSC115: Introduction to Computing has  been taken by 134 students and has a 89.0% recommendation score. \
+CPSC203: Mathematical Foundations of Computing has  been taken by 96 students and has a 87.0% recommendation score. \
+CPSC225: Event Driven Programming has  been taken by 117 students and has a 76.0% recommendation score. \
+CPSC215: Data Structures and Algorithms has  been taken by 67 students and has a 80.0% recommendation score. \
+TEST000: Test course has  been taken by 5 students and has a 100.0% recommendation score. \
+\
+*** Displaying courses sorted by their recommendation...\
+TEST000: 100.0%\
+CPSC399: 94.0%\
+CPSC333: 93.0%\
+CPSC375: 91.0%\
+CPSC115: 89.0%\
+CPSC310: 88.0%\
+CPSC315: 88.0%\
+CPSC275: 87.0%\
+CPSC203: 87.0%\
+CPSC385: 85.0%\
+CPSC340: 85.0%\
+CPSC304: 82.0%\
+CPSC316: 82.0%\
+CPSC110: 80.0%\
+CPSC215: 80.0%\
+CPSC219: 78.0%\
+CPSC320: 77.0%\
+CPSC225: 76.0%\
+CPSC352: 68.0%\
+\
+*** looking up courses ...\
+Enter a course ID to look up statistics. Enter 's' to stop.\
+Course ID: CPSC215\
+CPSC215: Data Structures and Algorithms has  been taken by 67 students and has a 80.0% recommendation score. \
+Course ID: CPSC333\
+CPSC333: Computer Networks has  been taken by 58 students and has a 93.0% recommendation score. \
+Course ID: XYZ\
+No such course! Try again.\
+Course ID: s\
+\
+*** comparing courses ...\
+Enter a course ID to compare. Enter 's' to stop.\
+Course ID: CPSC340\
+Course ID: CPSC275\
+Course ID: CPSC375\
+Course ID: XYZ\
+No such course! Try again.\
+Course ID: s\
+Best course to take: CPSC375: High-Performance Computing has  been taken by 45 students and has a 91.0% recommendation score. \
+(base) 38f9d37ee279:project2 enockniyonkuru$ }
